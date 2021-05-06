@@ -1,0 +1,19 @@
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.exe
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.deps.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.runtimeconfig.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.runtimeconfig.dev.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\ref\Encryption App Windows form.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\bin\Debug\net5.0-windows\Encryption App Windows form.pdb
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.csprojAssemblyReference.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.csproj.GenerateResource.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.AssemblyInfoInputs.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.AssemblyInfo.cs
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\ref\Encryption App Windows form.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.pdb
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption App Windows form.genruntimeconfig.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption_App_Windows_form.Encryption.resources
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Windows form\Encryption App Windows form\obj\Debug\net5.0-windows\Encryption_App_Windows_form.Properties.Resources.resources

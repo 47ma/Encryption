@@ -1,0 +1,16 @@
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.exe
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.deps.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.runtimeconfig.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.runtimeconfig.dev.json
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\ref\Encryption App Console.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\bin\Debug\net5.0\Encryption App Console.pdb
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.csprojAssemblyReference.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.AssemblyInfoInputs.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.AssemblyInfo.cs
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\ref\Encryption App Console.dll
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.pdb
+C:\Users\Youssef El-Sheheimy\source\repos\Encryption App Console\Encryption App Console\obj\Debug\net5.0\Encryption App Console.genruntimeconfig.cache
