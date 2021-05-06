@@ -23,20 +23,30 @@ namespace Encryption_App_Windows_form
 
         private void button1_Click(object sender, EventArgs e)
         {
+
             if (textBox1.Text.Length == 10)
             {
                 string Key = textBox1.Text;
                 string Message = textBox2.Text;
-                string Encryption = null;   
-                for (int i = 0; i < Message.Length; i++)
-                {
-                    for (int j = 0; j < Key.Length; j++)
+                string Encryption = null;
+                bool Dup=false;
+                for (int x = 0; x < 9; x++)
+                    if (Key[x] == Key[x + 1])
+                        Dup = true;
+                    if (Dup == true) 
+                        MessageBox.Show("Error key can't have duplicated numbers");
+                    else
                     {
-                        if (Message[i] == Key[j])
-                            Encryption += (j).ToString() ;    
+                        for (int i = 0; i < Message.Length; i++)
+                        {
+                            for (int j = 0; j < Key.Length; j++)
+                            {
+                                if (Message[i] == Key[j])
+                                    Encryption += (j).ToString();
+                            }
+                        }
+                        textBox3.Text = Encryption;
                     }
-                }
-                textBox3.Text = Encryption;
             }
             else
             {
